@@ -1,0 +1,73 @@
+targets = [ "//:graph" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-algorithm"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-any"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-foreach"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-function"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-fusion"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lexical_cast"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-math"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-multi_index"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-optional"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-parameter"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-property_map"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-property_tree"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-spirit"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-xpressive"
+version = "branch=master"

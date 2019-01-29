@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'bfs-neighbor',
+  srcs = [
+    'bfs_neighbor.cpp',
+  ],
+  deps = [
+    '//:graph',
+  ],
+)
